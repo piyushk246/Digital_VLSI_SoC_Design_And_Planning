@@ -14,7 +14,9 @@ https://github.com/Shashank-raut1999/Digital_VLSI_SoC_Design_And_Planning/blob/m
 
 ![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/c772d5fe-584a-4e24-a92c-71448d935c1b)
 
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/b10b68f1-e3ea-4261-9944-718959a4519f)
 
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/a029f6bf-2a0a-455f-ad84-cba763949ed7)
 
 
 ![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/b9b6de80-4ead-4150-9f2c-1457f4bb59d3)
