@@ -31,4 +31,28 @@ https://github.com/Shashank-raut1999/Digital_VLSI_SoC_Design_And_Planning/blob/m
 
 ![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/d67afefc-537c-4403-8db8-552338fd25ce)
 
+config.tcl
 ![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/20a5fff0-d311-4c33-bcbe-cd24d4867a84)
+
+cmd.log file
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/44f10d0a-f7f4-40c9-b6cb-09aa9ff3701f)
+
+synthesis
+
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/f8a87cb7-2d99-45c9-81e3-e5dbcd651c7c)
+
+STA
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/2aed362e-c07c-4e9b-8a5f-3c3e94763eb3)
+
+ABC run the show the chip area
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/e07bb627-76f3-4af0-9d89-00f82bfbb62b)
+
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/fe585896-3571-4856-a4b6-a0444f35eb1d)
+Flop Ratio = Total no. of D FFs / Total no. of cells
+Flop Ratio = 1613/18036 = 0.0894
+Flop Ratio Percentage = 8.9 %
+
+
+picorv32a.synthesis.v file opned
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/9d585b92-b3c6-4275-9f74-de85318ba1c8)
+
