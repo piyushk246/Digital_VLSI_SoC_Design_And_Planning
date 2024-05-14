@@ -21,4 +21,16 @@ run_floorplan
 
 ![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/6613af7b-6b48-43eb-8020-1225aaabb715)
 
+ioplacer.log file open
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/395e238c-0017-4470-9b65-3599827a2927)
+
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/bee9f91f-d17c-4710-993c-8ecc8b4e51a7)
+
+
+
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/04773f0d-00cb-4858-9d82-3e99986831ea)
+.def file open
+
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/1e5835cd-c2bf-4740-bdfb-6ebf47b8b9a9)
+
 
