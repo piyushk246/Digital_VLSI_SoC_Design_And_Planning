@@ -37,6 +37,8 @@ config.tcl
 cmd.log file
 ![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/44f10d0a-f7f4-40c9-b6cb-09aa9ff3701f)
 
+
+
 synthesis
 
 ![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/f8a87cb7-2d99-45c9-81e3-e5dbcd651c7c)
