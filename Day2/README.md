@@ -50,3 +50,11 @@ Die Area = Xf * Yf = 443587.212 (um)^2
 ![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/180e790d-5f13-4e35-bf80-62b804647754)
 
 <img width="889" alt="image" src="https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/290daeb6-7a7d-4f65-8ba7-3f52bcae2488">
+
+run_placement
+
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/17035882-4576-4fbe-bd7d-464420b333db)
+
+after the run_placement run
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/afd15dc7-2011-413f-99ae-6ef83b8efad6)
+
