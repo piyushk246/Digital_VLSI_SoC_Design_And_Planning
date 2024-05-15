@@ -58,3 +58,11 @@ run_placement
 after the run_placement run
 ![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/afd15dc7-2011-413f-99ae-6ef83b8efad6)
 
+magic tool open 
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/bfa5f846-8fc9-40e4-aa28-7610b3eed55e)
+
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/641a3d9d-910f-4c3a-98f5-363a1f1f075e)
+
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/da3f21c8-2f6e-4814-b7ed-719a77a83a38)
+
+
