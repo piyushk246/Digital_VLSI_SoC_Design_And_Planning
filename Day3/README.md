@@ -20,3 +20,4 @@ extracting the files
 ![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/d81d9c4d-3f08-4ef0-92ca-d6ae706433b0)
 
 
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/a8da5e1b-463a-4f13-9500-444fd8bb7837)
