@@ -88,3 +88,13 @@ error in poly.mag file
 ![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/1ba35ac3-4d60-49e5-bb4d-a3a697d0da18)
 
 ![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/783751aa-897b-4602-9063-ea7a21ce1004)
+
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/d741b0fb-b2c0-493f-8d8a-aff7438ea039)
+
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/a3d480de-bf93-4258-a6bf-2a8fab5d2063)
+
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/f2e7b89f-6d29-4fab-ab99-b4ca2b7ceea7)
+
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/4bd5d960-35af-4b37-952e-c0a890a1b442)
+
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/ecae5027-bdbd-4e48-acc0-4b663bf95dfb)
