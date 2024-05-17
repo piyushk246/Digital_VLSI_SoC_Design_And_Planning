@@ -21,3 +21,6 @@ extracting the files
 
 
 ![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/a8da5e1b-463a-4f13-9500-444fd8bb7837)
+
+vim sky130_inv.spice
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/ff480a8d-9af4-48e6-b293-76078fc9234f)
