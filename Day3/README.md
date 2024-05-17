@@ -78,3 +78,13 @@ Met3.mag open file
 
 ![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/e3f486ea-1912-41d0-a7a9-ce407aac6410)
 
+
+
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/29dc0292-64b2-4eaa-afb5-43744c39a46e)
+
+
+error in poly.mag file
+
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/1ba35ac3-4d60-49e5-bb4d-a3a697d0da18)
+
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/783751aa-897b-4602-9063-ea7a21ce1004)
