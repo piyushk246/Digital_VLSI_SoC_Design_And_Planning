@@ -36,3 +36,25 @@ after the ngspice run
 plot y vs time a
 
 ![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/74f77d6a-080f-4ca3-94bd-98f0097f1503)
+
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/91ec33e0-81c1-4fd4-971d-8c33cd4e9882)
+
+20%
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/1aceb0cf-3b22-49bc-af42-d719dbb29591)
+
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/5e5aae1b-0165-4ecb-83ca-65a311629a29)
+
+80%
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/e762fce2-fbfc-4fca-8a64-19ef3aef1ec5)
+
+
+Rise delay time 50%
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/63735e2a-d878-4342-9867-f066d30eae7d)
+
+
+Fall delay time 50%
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/62b5a20e-3d0e-4894-9053-c083cf0d505a)
+
+
+Errors in DRC by Magic tool
+
