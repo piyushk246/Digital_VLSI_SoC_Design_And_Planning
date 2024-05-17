@@ -58,3 +58,19 @@ Fall delay time 50%
 
 Errors in DRC by Magic tool
 
+
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/698dcbe0-e446-49ee-9840-f9aa8f98c244)
+
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/85fc30ba-b0cb-40eb-828e-aad4fe8867b4)
+
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/bd7465f7-2141-46cc-a7c9-3b136f5a0620)
+
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/27147072-15ae-4d19-9c29-3f98304310f6)
+
+
+ 
+magic -d XR
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/2256a2ae-acae-4078-a241-ac8b30296f33)
+
+Met3.mag open file
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/32b6048a-5eb4-4684-8129-9170d39b654c)
