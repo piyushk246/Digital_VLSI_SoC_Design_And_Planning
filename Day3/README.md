@@ -15,4 +15,8 @@ Invter Layout on Magic
 
 ![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/baf82066-1a06-4ee5-932a-d8da432d799e)
 
+extracting the files
+
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/d81d9c4d-3f08-4ef0-92ca-d6ae706433b0)
+
 
