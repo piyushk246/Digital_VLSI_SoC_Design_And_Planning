@@ -74,3 +74,7 @@ magic -d XR
 
 Met3.mag open file
 ![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/32b6048a-5eb4-4684-8129-9170d39b654c)
+
+
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/e3f486ea-1912-41d0-a7a9-ce407aac6410)
+
