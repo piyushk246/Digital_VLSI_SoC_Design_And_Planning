@@ -24,3 +24,52 @@ extracting the files
 
 vim sky130_inv.spice
 ![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/ff480a8d-9af4-48e6-b293-76078fc9234f)
+
+
+LES फ़ाइलsky130_inv.ext तकनीक से बनाई गई:sky130A
+
+.ऑप्शन स्केल=0.01u
+
+.include/libs/pshort.lib
+
+// लेआउट में ग्रिड बॉक्स का आयाम
+
+include/libs/nshort.lib
+
+// इसमें pmos और nmos के बारे में जानकारी शामिल है
+
+//.subcktsky130_inv A Y VPWR VGND
+
+M1000 Y A VPWR VPWR pshort_model. w=37 1=23
+
++ विज्ञापन=1443 पीडी=152 एएस=1517 पीएस=156
+
+M1001 Y A VGND VGND nshort_model.0 w=35 1=23
+
++ विज्ञापन=1435 पीडी=152 एएस=1365 पीएस=148
+
+वीडीडी वीपीडब्ल्यूआर0 3.3वी वीएसएस वीजीएनडीओ ओवी
+
+वीए ए वीजीएनडी पल्स (0V 3.3V 0 0.1ης 0.1ns 2ns 4ns)
+
+COAY 0.05fF
+
+C1 VPWR 0.11fF
+
+C2 A VPWR 0.07fF
+
+C3 Y 0 2fF
+
+C4 A 00.59fF
+
+//C5 VPWR VGND 0.000017f
+
+//.समाप्त होता है
+
+.ट्रान 1एन 20एन
+
+।नियंत्रण
+
+दौड़ना
+
+// C3 नामक लोड कैपेसिटेंस नोड Y और VGND के बीच जुड़ा हुआ है
