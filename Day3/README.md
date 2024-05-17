@@ -25,7 +25,14 @@ extracting the files
 vim sky130_inv.spice
 ![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/ff480a8d-9af4-48e6-b293-76078fc9234f)
 
-![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/c0f63bc0-9770-4326-860d-cb8502252178)
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/4d434d59-9732-48b4-a173-d266c2bd0cfd)
+
 
 after the ngspice run  
-![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/fb47cfa0-fa47-49b2-866a-8614831f17ed)
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/1cdfc734-50b1-421b-a909-d8c2f71f6fb7)
+
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/424ccf8b-961e-4466-bb46-30f264234da3)
+
+plot y vs time a
+
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/74f77d6a-080f-4ca3-94bd-98f0097f1503)
