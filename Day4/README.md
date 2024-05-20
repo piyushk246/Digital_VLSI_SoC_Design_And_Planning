@@ -29,3 +29,4 @@ cp of the sky130_vsdinv.lef file
 
 
 ![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/58718723-d0c9-40bb-bac9-52ef7551b224)
+
