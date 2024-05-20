@@ -139,5 +139,7 @@ synthesis , floorplan , placement and ct
 
 ![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/5cbeee16-1537-4efb-a3cf-8abd6fd9952b)
 
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/2e3d1c52-df64-4fff-9612-60ca05029959)
 
+<img width="592" alt="image" src="https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/9810b921-8b8d-448e-9c9f-323d692e69b1">
 
