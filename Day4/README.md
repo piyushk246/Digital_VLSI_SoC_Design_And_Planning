@@ -137,3 +137,5 @@ Newly Generated Netlist
 ![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/7fe48515-07dc-4e5b-8134-bc6b58083525)
 synthesis , floorplan , placement and ct
 
+<img width="76" alt="image" src="https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/4d70ff10-7eff-4e7b-899a-2c1de6c04ee2">
+
