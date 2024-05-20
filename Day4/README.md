@@ -47,6 +47,8 @@ add_lefs -src $lefs
   run_synthesis
 ![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/f753790d-097e-4551-b484-b9ec9c212c00)
 
+run_floorplan error
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/a68fdcda-ff01-490d-b254-1f23a790e7b6)
 
   init_floorplan
   ![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/8f596bd8-5d0e-4a74-b2e5-46af525656ae)
