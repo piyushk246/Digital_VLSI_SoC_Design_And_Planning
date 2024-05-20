@@ -88,3 +88,4 @@ Create pre_sta.conf
 create my_base.sdc
 
 ![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/5594aab5-d78a-40f0-85fb-77a8f7adef05)
+
