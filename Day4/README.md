@@ -82,3 +82,18 @@ set ::env(SYNTH_SIZING) 1
 run_synthesis
 ![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/6405e219-826d-448b-a4ee-959dfe5176d1)
 
+set_cmd_units -time ne -capacitance pF -current ma -voltage V-resistance kOhm -distance um
+
+read_liberty-max/home/vsduser/Desktop/work/tools/openlane_working_dir/openlane/designs/picorv32a/src/sky130_fd_sc_hd__slow.lib
+
+read_liberty-min /home/vsduser/Desktop/work/tools/openlane working dir/openlane/designs/picorv32a/src/sky130_fd_sc_hd__fast.lib
+
+read_verilog/home/vsduser/Desktop/work/tools/openlane_working_dir/openlane/designs/picorv32a/runs/15-05_07-32/results/synthesis/picorv32a.synthesis.v
+
+link design picorv32a
+
+read_sdc/home/vsduser/Desktop/work/tools/openlane_working_dir/openlane/designs/picorv32a/src/my_base.sdc
+
+report checks path delay min max-fields (slew trans net cap input pin)
+report tns
+report wns
