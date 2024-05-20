@@ -82,6 +82,8 @@ set ::env(SYNTH_SIZING) 1
 run_synthesis
 ![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/6405e219-826d-448b-a4ee-959dfe5176d1)
 
+Create pre_sta.conf 
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/91c5251a-e3ea-48b7-84d7-a49670c62b11)
 
 create my_base.sdc
 
