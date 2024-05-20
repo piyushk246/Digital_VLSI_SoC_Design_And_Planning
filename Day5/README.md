@@ -11,6 +11,7 @@ We will use the  gen_pdn command after the clock tree synthesis run to generate 
 
 ![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/685ed5cb-e0ee-40aa-ad8c-3eef7a3f311b)
 
+fgh
 <img width="909" alt="image" src="https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/1353fc48-53a8-40ac-afaf-b9e89acc2c9e">
 
 
