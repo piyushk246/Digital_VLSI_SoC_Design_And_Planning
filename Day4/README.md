@@ -117,4 +117,23 @@ OR Gate with another OR Gate
 
 ![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/b1ca815f-ea33-4780-8088-4905f5f14575)
 
+The slack is reduced to 23.1362 ns.
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/3e0cad89-20fc-4ded-9ffc-fe7ecd1a3115)
+
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/5e88d1a8-bf51-4994-ad58-3d967c789951)
+
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/d1268123-a19c-4ec3-bd08-e7b1576ffa36)
+
+report_checks -from _29043_ -to _30440_ -through _14506_
+
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/ef2960af-5e0d-49e2-b83f-9d76ac265609)
+
+
+Newly Generated Netlist
+
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/8ee51394-9d29-47b1-bb9a-2d13cb77f6ca)
+
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/fed35bc3-67c9-44c0-9b32-314e8188bcc1)
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/7fe48515-07dc-4e5b-8134-bc6b58083525)
+synthesis , floorplan , placement and ct
 
