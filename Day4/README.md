@@ -143,3 +143,31 @@ synthesis , floorplan , placement and ct
 
 <img width="592" alt="image" src="https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/9810b921-8b8d-448e-9c9f-323d692e69b1">
 
+OPENROAD 
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/1dbdfa71-0560-4dc5-b3cc-dd87bb425d93)
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/8616994c-8e32-4c14-977d-a89f7f98914d)
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/2edaf386-02fd-4a5e-a0b2-f11b308d5243)
+
+
+Assigned Task
+openroad
+read_lef /openLANE_flow/designs/picorv32a/runs/15-05_07-32/tmp/merged.lef
+read_def /openLANE_flow/designs/picorv32a/runs/15-05_07-32/results/cts/picorv32a.cts.def
+write_db pico_cts1.db
+read_db pico_cts.db
+read_verilog /openLANE_flow/designs/picorv32a/runs/15-05_07-32/results/synthesis/picorv32a.synthesis_cts.v
+read_liberty $::env(LIB_SYNTH_COMPLETE)
+link_design picorv32a
+read_sdc /openLANE_flow/designs/picorv32a/src/my_base.sdc
+set_propagated_clock [all_clocks]
+report_checks -path_delay min_max -fields {slew trans net cap input_pins} -format full_clock_expanded -digits 4
+report_clock_skew -hold
+report_clock_skew -setup
+exit
+<img width="628" alt="image" src="https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/6bb1f8cc-4c30-4e10-abc3-f6fe2b3b96e1">
+
+
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/ed1df561-519b-4dad-b357-9f3b9aefadb8)
+
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/8a0d5434-0c54-4dc8-9ebe-c678f3caed61)
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/de542c9a-07b1-4608-b7f6-b7a23293ba4c)
