@@ -103,5 +103,4 @@ set_input_delay Sinput delay value clock [get_clocks $::env (CLOCK PORT)] $all i
 set_output_delay soutput delay value clock [get_clocks S:: env (CLOCK PORT)] [all outputs]
 #TODO set this as parameter
 set_driving_cell lib cell $:: env (SYNTH DRIVING CELL) pin $:: env(SYNTH DRIVING CELL PIN) [all inputs]
-set cap load [expr S::env(SYNTH CAP LOAD) / 1000.0] puts "[INFO]: Setting load to: scap Load"
-set load scap load [all outputs]
+set cap load [expr S::env(SYNTH CAP LOAD) / 1000.0] puts "[INFO]: Setting load to: scap 
