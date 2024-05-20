@@ -63,7 +63,8 @@ run_placement
 ![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/36880deb-61bb-4131-8ee3-e96e706e48fd)
 
 magic tool opens the placement
-![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/954fdc72-ea38-4728-9209-dd14f230178d)
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/02c72b06-cfec-4b43-a434-8c420f9d6da7)
+
 
 ![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/da77af70-d6ce-4159-a882-49a400a1dc37)
 
