@@ -9,7 +9,8 @@ We will use the  gen_pdn command after the clock tree synthesis run to generate 
 
 ![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/05947228-e9c7-4dc9-b7bf-bed6d30c2aa8)
 
-
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/f63977be-7969-4a75-ac72-9910d1db6587)
+aa
 ![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/bbae9ad8-b2b1-4bfd-a1e9-d80ddb19b722)
 
 ![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/685ed5cb-e0ee-40aa-ad8c-3eef7a3f311b)
