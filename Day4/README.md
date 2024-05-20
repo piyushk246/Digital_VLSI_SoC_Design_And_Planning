@@ -82,25 +82,7 @@ set ::env(SYNTH_SIZING) 1
 run_synthesis
 ![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/6405e219-826d-448b-a4ee-959dfe5176d1)
 
-setenv(CLOCK PORT) clk
-setenv(CLOCK PERIOD) 24.73
-#setenv (SYNTH DRIVING CELL) sky130 vsdinv
-setenv(SYNTH DRIVING CELL) sky130 fd sc hd inv 8
-setenv(SYNTH DRIVING CELL PIN) Y setenv(SYNTH CAP LOAD) 17,653
-setenv(10 PCT) 8.2
-setenv(SYNTH MAX FANOUT) 6
-create clock [get ports $::env (CLOCK PORT)
-] -name $:: env (CLOCK PORT)
--period $::env (CLOCK PERIOD)
-set input delay value [expr 5::env (CLOCK PERIOD) S::env(10 PCT)] set output delay value [expr S::env (CLOCK PERIOD) $::env(10 PCT)]
-puts [INFO]: Setting output delay to: $output delay value" puts "[INFO]: Setting input delay to: Sinput delay value"
-set max fanout stenv(SYNTH MAX FANOUT) [current_design]
-set clk indx [Isearch [all inputs] [get port $::env (CLOCK PORT)]] #set rst indx [lsearch [all inputs] [get port resetn]]
-set all inputs wo clk [lreplace [all inputs] $clk indx $clk indx] #set all inputs wo clk rst [lreplace sall inputs wo clk srst indx $rst indx]
-set all inputs wo clk rst sall inputs wo clk
-#correct resetn.
-set_input_delay Sinput delay value clock [get_clocks $::env (CLOCK PORT)] $all inputs wo clk rst #set input delay 0.0 -clock [get clocks $::env (CLOCK PORT)] (resetn)
-set_output_delay soutput delay value clock [get_clocks S:: env (CLOCK PORT)] [all outputs]
-#TODO set this as parameter
-set_driving_cell lib cell $:: env (SYNTH DRIVING CELL) pin $:: env(SYNTH DRIVING CELL PIN) [all inputs]
-set cap load [expr S::env(SYNTH CAP LOAD) / 1000.0] puts "[INFO]: Setting load to: scap 
+
+create my_base.sdc
+
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/5594aab5-d78a-40f0-85fb-77a8f7adef05)
