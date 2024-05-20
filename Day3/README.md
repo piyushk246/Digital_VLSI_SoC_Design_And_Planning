@@ -50,11 +50,17 @@ plot y vs time a
 
 Rise delay time 50%
 ![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/63735e2a-d878-4342-9867-f066d30eae7d)
-
+Rise Time = Time taken by output to rise to 80% of its final value - Time taken by output to rise to 20% of its final value
+output rises to 20% of its final value at 2.1825 ns.
+output rises to 80% of its final value at 2.2464 ns
+RISE TIME = 2.2464 - 2.1825 = 0.0639 ns = 63.9ps
 
 Fall delay time 50%
 ![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/62b5a20e-3d0e-4894-9053-c083cf0d505a)
-
+Fall transition time = Time taken by output to fall to 80% of its final value - Time taken by output to fall to 20% of its final value
+output rises to 20%(i.e. 2.64V) of its final value at 4.0527 ns
+output rises to 80%(i.e. 660mV) of its final value at 4.0951 ns
+FALL TIME =4.0951 - 4.0527 = 0.0424ns = 42.4ps
 
 Errors in DRC by Magic tool
 
