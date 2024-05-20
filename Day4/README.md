@@ -62,3 +62,22 @@ run_floorplan error
 run_placement
 ![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/36880deb-61bb-4131-8ee3-e96e706e48fd)
 
+magic tool opens the placement
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/954fdc72-ea38-4728-9209-dd14f230178d)
+
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/da77af70-d6ce-4159-a882-49a400a1dc37)
+
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/cf0fb4c5-5c4c-44c4-bc20-6f07d212e47c)
+
+
+Timing Analysis with OpenSTA tool after synthesis
+
+set lefs [glob $::env(DESIGN_DIR)/src/*.lef] 
+add_lefs -src $lefs 
+set ::env(SYNTH_SIZING) 1 
+
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/9c0bcec8-0798-4ff9-8782-3206bdcd9be3)
+
+run_synthesis
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/6405e219-826d-448b-a4ee-959dfe5176d1)
+
