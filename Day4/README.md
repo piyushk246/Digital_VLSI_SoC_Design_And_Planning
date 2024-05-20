@@ -27,7 +27,7 @@ sky130_vsdinv.lef file open
 cp of the sky130_vsdinv.lef file 
 ![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/74b8b3c1-fc89-4e43-8683-46f2844327f7)
 
-sky130_fd_sc_
+sky130_fd_sc__typical.lib
 
 ![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/58718723-d0c9-40bb-bac9-52ef7551b224)
 
