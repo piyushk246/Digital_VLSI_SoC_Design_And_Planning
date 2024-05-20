@@ -40,4 +40,23 @@ sky130_fd_sc__slow.lib
 
 ![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/da95b75c-226f-4c3f-b8b9-0917f4cd4425)
 
-![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/523c55bb-09ce-44c6-bd51-4d784a2c621b)
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/d06bf511-d193-4fd3-9f79-5953835568ab)
+
+set lefs [glob $::env(DESIGN_DIR)/src/*.lef]      
+add_lefs -src $lefs
+  run_synthesis
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/f753790d-097e-4551-b484-b9ec9c212c00)
+
+
+  init_floorplan
+  ![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/8f596bd8-5d0e-4a74-b2e5-46af525656ae)
+
+  place_io
+  ![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/a65b4ef9-447b-432d-847b-d60b0d9d01fe)
+
+  tap_decap_or
+    ![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/b6badfc9-06b1-4f43-99f9-431bc21b9fa3)
+
+run_placement
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/36880deb-61bb-4131-8ee3-e96e706e48fd)
+
