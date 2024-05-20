@@ -12,6 +12,7 @@
 grid 0.46um 0.34um 0.23um 0.17um
 ![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/bbd5dfb9-4311-4f9d-a4c3-c151d77a130f)
 
+sky130_fd_sc_hd__typical.lib
 ![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/b1a5d6d9-a928-4489-9244-c79b7d8a5604)
 
 ![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/7e0efaa3-8ec6-4ef4-bdc2-0570d4def3de)
