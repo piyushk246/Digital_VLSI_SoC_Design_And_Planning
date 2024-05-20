@@ -6,12 +6,17 @@ We will use the  gen_pdn command after the clock tree synthesis run to generate 
 
 
 **Routing**
-![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/05947228-e9c7-4dc9-b7bf-bed6d30c2aa8)
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/05947228-e9c7-4dc9-b7bf-bed6d30c2aa8
+
+fgh
+
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/c0ef93e4-5fad-4017-b521-e8e4a5f4c459)
+
 ![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/bbae9ad8-b2b1-4bfd-a1e9-d80ddb19b722)
 
 ![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/685ed5cb-e0ee-40aa-ad8c-3eef7a3f311b)
 
-fgh
+
 ![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/ed721acb-6083-4b7f-9e53-702950ea1480)
 
 
