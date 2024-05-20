@@ -1,4 +1,4 @@
-*Day Three*
+# *Day Three*
 
 ![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/7528d596-5400-406e-94e9-528e7e08aa8a)
 
@@ -64,7 +64,7 @@ Fall delay time 50%
 - output rises to 80%(i.e. 660mV) of its final value at 4.0951 ns
 - FALL TIME =4.0951 - 4.0527 = 0.0424ns = 42.4ps
 
-#Errors in DRC by Magic tool
+# Errors in DRC by Magic tool
 
 
 ![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/698dcbe0-e446-49ee-9840-f9aa8f98c244)
