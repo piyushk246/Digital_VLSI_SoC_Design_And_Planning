@@ -33,3 +33,23 @@ sky130_fd_sc__typical.lib
 
 sky130_fd_sc__fast.lib
 ![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/6ca6d28c-49cd-42f7-a24e-163c3e959dc6)
+
+sky130_fd_sc__slow.lib
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/0fc0928f-c9c4-4339-98e7-62b1d871da0d)
+
+
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/da95b75c-226f-4c3f-b8b9-0917f4cd4425)
+
+set::env (FP CORE UTIL) 65
+
+set :env (FP IO VMETAL) 4
+
+setenv (FP_10_HMETAL) 3
+
+setenv(LIB SYNTH) "$::env (OPENLANE ROOT)/designs/picorv32a/src/sky130 fd sc hd typical. Lib
+
+set :env (LIB_FASTEST) "$:: env (OPENLANE ROOT)/designs/picorv32a/src/sky138 fd sc_hd set:: env (LIB SLOWEST) "$:: env (OPENLANE ROOT)/designs/picorv32a/src/sky130 fd sc hd fast. Lib" slow. Lib
+
+setenv(LIB_TYPICAL) "$::env(OPENLANE_ROOT)/designs/picorv32a/src/sky130 fd sc hd typical. Lib
+
+setenv (EXTRA LEFS) [glob $:: env(OPENLANE_ROOT)/designs/$::env (DESIGN NAME)/src/*.lef]
