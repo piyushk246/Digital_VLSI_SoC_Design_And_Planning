@@ -89,3 +89,32 @@ create my_base.sdc
 
 ![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/5594aab5-d78a-40f0-85fb-77a8f7adef05)
 
+
+sta pre_sta.conf
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/3c69d070-6d10-4f48-9e5f-fdd330a89048)
+
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/6e14020c-cf43-4acb-9ae9-1a1a956a816f)
+
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/843cd428-c645-4442-a358-2af37a008be9)
+
+Reducing slack by Fixes
+
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/05b90720-3c70-4366-a363-5c5fb15b4c69)
+
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/c5c8b21b-1457-44ea-a3ab-e7c9a9379197)
+
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/0b6189da-cade-458a-976d-ee369a7f3d9e)
+
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/b7ffccf2-cd73-47d1-ab92-77ca1ee08c01)
+
+OR Gate with another OR Gate
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/2ae922b2-9b97-4dbb-95ef-52b64359ac0b)
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/998960e2-9d56-4692-8293-c6b7ea17e1f1)
+
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/47826997-0b49-4e8b-af9e-fbe916e01358)
+
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/59928946-9311-4e19-806e-9f074007c679)
+
+![image](https://github.com/piyushk246/Digital_VLSI_SoC_Design_And_Planning/assets/65733681/b1ca815f-ea33-4780-8088-4905f5f14575)
+
+
